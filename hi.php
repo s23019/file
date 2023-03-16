@@ -1,3 +1,3 @@
 <?php
-echo "hi welcome to visual studio";
+echo "hi welcome to visual code";
 ?>
