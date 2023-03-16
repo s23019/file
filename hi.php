@@ -1,5 +1,5 @@
 <?php
 
-echo "hi welcome to visual code  studio version7.5";
+echo "hi welcome to visual code  studio version7.6";
 
 ?>
